@@ -4,3 +4,4 @@ p=1
 for i in lista:
     print("O "+str(p)+"º elemento é "+str(i))
     p+=1
+
